@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Advanced asp.net mvc ,flutter frameworks ,and API**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ashwagMohsen - https://twitter.com/_94521Salam?s=09](https://github.com/ashwagMohsen - https://twitter.com/_94521Salam?s=09)
+- 👨‍💻 All of my projects are available at [https://github.com/ashwagMohsen ](https://github.com/ashwagMohsen)
 
-- 📫 How to reach me **ashwag94521@gmail.com ,**
+- 📫 How to reach me **ashwag94521@gmail.com ,** _ **https://twitter.com/_94521Salam?s=09,**
 
 - ⚡ Fun fact **Fighter in programming world :)**
 
